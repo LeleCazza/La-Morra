@@ -1,6 +1,6 @@
 # La-Morra
 
-##REQUISITI
+## REQUISITI
 - QtSpim: http://spimsimulator.sourceforge.net/
 
 ## MANUALE D'USO
